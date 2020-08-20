@@ -5,9 +5,19 @@
 <li> Gerar arquivo com a estrutura inicial, conforme acima - https://start.spring.io/ </li>
 <li> Instalar IDE - IntelliJ IDEA Community - https://www.jetbrains.com/pt-br/idea/download/download-thanks.html?platform=windows&code=IIC</li> 
 
-
 <h2> IntelliJ IDEA Community </h2>
-<li> Instalar Maven </li>
+<li> Maven - Importar projeto de modelo externo </li>
+<li> <li> </li></li>
+
+<h2> "Pom.xml" </h2>
+<li> Configure de acordo com a versão de java, do seu PC</li>
+<p> <!--Checking your java version -->
+	<properties>
+		<java.version>11</java.version>
+	</properties>
+</p>
 
 <h2> Linguagens </h2>
 <li> Java </li>
+
+
