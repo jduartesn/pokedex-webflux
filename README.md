@@ -7,15 +7,12 @@
 
 <h2> IntelliJ IDEA Community </h2>
 <li> Maven - Importar projeto de modelo externo </li>
-<li> <li> </li></li>
+
 
 <h2> "Pom.xml" </h2>
 <li> Configure de acordo com a versão de java, do seu PC</li>
-<p> <!--Checking your java version -->
-	<properties>
-		<java.version>11</java.version>
-	</properties>
-</p>
+<p> Caso a versão do java seja 11, altere o valor da propriedade "java.version" para 11. </p>
+	
 
 <h2> Linguagens </h2>
 <li> Java </li>
