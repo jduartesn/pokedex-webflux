@@ -12,7 +12,8 @@
 <h2> "Pom.xml" </h2>
 <li> Configure de acordo com a versão de java, do seu PC</li>
 <p> Caso a versão do java seja 11, altere o valor da propriedade "java.version" para 11. </p>
-	
+
+<li> Remover escopo de teste, das dependências mongo e webflux </li>
 
 <h2> Linguagens </h2>
 <li> Java </li>
