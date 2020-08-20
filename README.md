@@ -15,7 +15,11 @@
 
 <li> Remover escopo de teste, das dependências mongo e webflux </li>
 
+<h2> Testes </h2>
+<li> Instalar PostMan - https://www.postman.com/downloads/ </li>
+
 <h2> Linguagens </h2>
 <li> Java </li>
+
 
 
