@@ -24,7 +24,7 @@
 <li> Instalar PostMan - https://www.postman.com/downloads/ </li>
 <img src="https://i.ibb.co/dDnvgYx/4-Testes-de-requisi-es-GET-SET-e-Delete-Postman.png" alt="4-Testes-de-requisi-es-GET-SET-e-Delete-Postman" border="0">
 
-<h2> Resposta da API </h2>
+<h2> Resposta Final - API </h2>
 <img src="https://i.ibb.co/PWW5n63/3-Navegador-Chrome-Resposta-API.png" alt="3-Navegador-Chrome-Resposta-API" border="0">
 
 
