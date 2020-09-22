@@ -14,6 +14,11 @@
 
 <li> Remover escopo de teste, das dependências mongo e webflux </li>
 
+<h2> Linguagens </h2>
+<li> Java </li>
+<li> HTML </li>
+<li> JavaScript </li>
+
 <h2> Testes </h2>
 <li> Instalar PostMan - https://www.postman.com/downloads/ </li>
 <img src="https://i.ibb.co/dDnvgYx/4-Testes-de-requisi-es-GET-SET-e-Delete-Postman.png" alt="4-Testes-de-requisi-es-GET-SET-e-Delete-Postman" border="0">
@@ -21,7 +26,4 @@
 <h2> Resposta da API </h2>
 <img src="https://i.ibb.co/PWW5n63/3-Navegador-Chrome-Resposta-API.png" alt="3-Navegador-Chrome-Resposta-API" border="0">
 
-<h2> Linguagens </h2>
-<li> Java </li>
-<li> HTML </li>
-<li> JavaScript </li>
+
