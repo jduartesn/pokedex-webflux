@@ -9,7 +9,7 @@
 <li> Maven - Importar projeto de modelo externo </li>
 <img src="https://i.ibb.co/HGkbFdB/2.png" alt="2" border="0">
 
-<h2> "pom.xml" </h2>
+<h2> "Pom.xml" </h2>
 <li> Configure de acordo com a versão de java, do seu PC</li>
 <p> Caso a versão do java seja 11, altere o valor da propriedade "java.version" para 11. </p>
 
