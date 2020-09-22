@@ -7,6 +7,7 @@
 
 <h2> IntelliJ IDEA Community </h2>
 <li> Maven - Importar projeto de modelo externo </li>
+<img src="https://i.ibb.co/HGkbFdB/2.png" alt="2" border="0">
 
 <h2> "pom.xml" </h2>
 <li> Configure de acordo com a versão de java, do seu PC</li>
